@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554020850537",
+    "firebase_url": "https://tu-i-tam-bf292.firebaseio.com",
+    "project_id": "tu-i-tam-bf292",
+    "storage_bucket": "tu-i-tam-bf292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554020850537:android:f5a400e3127a9e1265cbf8",
+        "android_client_info": {
+          "package_name": "com.example.tuitam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554020850537-imjskth1fkt1vqga1oe367m586nrhlci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLTeXYnxp6j6jcC3-I9C8doYXp66ZmxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554020850537-imjskth1fkt1vqga1oe367m586nrhlci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

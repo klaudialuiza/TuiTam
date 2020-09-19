@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:title="Aktualności"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:title="O nas"
+        android:id="@+id/onas"
+        android:icon="@drawable/ic_onas"/>
+
+    <item
+        android:title="Oferta"
+        android:id="@+id/oferta"
+        android:icon="@drawable/ic_oferta"/>
+
+    <item
+        android:title="Galeria"
+        android:id="@+id/galeria"
+        android:icon="@drawable/ic_galeria"/>
+
+    <item
+        android:title="Kontakt"
+        android:id="@+id/kontakt"
+        android:icon="@drawable/ic_contact"/>
+
+    <item
+        android:title="Kalendarz"
+        android:id="@+id/kalendarz"
+        android:icon="@drawable/ic_calendar"/>
+
+
+
+
+</menu>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tu i Tam</string>
+
+    <string-array name="oferty">
+        <item name="item1">Kraina Wygasłych Wulkanów</item>
+        <item>Międzygórze</item>
+        <item>Zamek Czocha</item>
+        <item>Kompleks Riese</item>
+        <item>Rudawski Park Krajobrazowy</item>
+        <item>Świdnica</item>
+        <item>Park Narodowy Gór Stołowych</item>
+        <item>Złoty Stok i polska kopalnia złota</item>
+        <item>Stawy Milickie</item>
+        <item>Arka Noego i Zamek Śląskich Legend</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Góry i Pogórze Kaczawskie w Sudetach</item>
+        <item>Perła Sudetów</item>
+        <item>Zwiedzanie zamku z przewodnikiem</item>
+        <item>Podziemna trasa turystyczna</item>
+        <item>Kolorowe Jeziorka</item>
+        <item>Kościół Pokoju, Rynek i Starówka</item>
+        <item>Błędne Skały i Szczeliniec Wielki</item>
+        <item>Muzeum Górnictwa i Hutnictwa Złota</item>
+        <item>Największy kompleks stawów w Europie</item>
+        <item>Zwiedzanie Zamku, Grodu Rycerskiego i Arki Noego</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
